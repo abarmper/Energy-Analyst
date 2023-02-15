@@ -11,7 +11,7 @@ Energy Analyst is a PC application designed to aid the ad hoc analysis of energy
 ## Installation
 * Downloaad this repository and unzip the contents.
 * Move into the directory of the folder you just unziped.
-* Open a terminal on the a system with python 3 installed and run `pip install -r requirements.txt` (alternatively, create a virtual environment)
+* Open a terminal on a system with python 3 installed and run `pip install -r requirements.txt` (alternatively, create a virtual environment)
 * Run `python3 gui.py`
 
 ## Data Format

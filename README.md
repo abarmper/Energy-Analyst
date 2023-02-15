@@ -26,9 +26,6 @@ In general, the input data can be in either .csv or .xlsx form and they must hav
 ## Scope
 Energy Analyst is developed to aid the ad hoc analysis of energy data, a requirement for energy management of office buildings and hotels. This facilitation is in the form of a friendly interface that encloses pre-defined, common queries and transformations so that the user will not have to repeatedly formulate and perform those intricate and time-consuming data workflows. In other words, this application aims in reducing the overall time that ad hoc energy data analysis takes up.
 
-## Range of Functionality
-The application includes a 'help' button which reveals the wide range of possible commands and their combinations.
-
 ## Files
 * 'gui.py' <br/>
 This is the python file that includes the classes for the graphical user interface.
@@ -41,4 +38,13 @@ The back-bone of the program. All the queries and all the data operations are pe
 * 'params.json' <br />
 Parameters that the user can easily change providing even more flexibility. The parameters are self explanatory. Some of those specify how to handle missing values, whether or not <it>0</it> numbers represent missing data. Other parameters concern the office working hours, the calendar (by which national holidays are found) and the format of the input data.
 
+## Range of Functionality
+The application includes a 'help' button which reveals the wide range of possible commands and their combinations.
+![Help](https://github.com/abarmper/Energy-Analyst/blob/main/help.png)
+
 ## Screenshots
+![Main Menu](https://github.com/abarmper/Energy-Analyst/blob/main/Main_menu.png)
+![Date Selection](https://github.com/abarmper/Energy-Analyst/blob/main/Date_range.png)
+![Energy Statistics](https://github.com/abarmper/Energy-Analyst/blob/main/Energy_Stats_part.png)
+![Show Table](https://github.com/abarmper/Energy-Analyst/blob/main/Table_show.png)
+
